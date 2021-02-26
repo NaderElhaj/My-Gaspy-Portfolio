@@ -44,6 +44,16 @@ export const projectsData = [
     url: 'https://gallant-hermann-1fa9de.netlify.app/',
     repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project3.png',
+    title: 'Wedding Managment App',
+    info: 'Reactjs Project',
+    info2: 'The Velvet Box is the largest and most trusted marketplace in Tunisia connecting engaged couples with local wedding professionals. Millions of couples are able to search, compare and book from a directory of multipls vendors .',
+    url: 'https://github.com/NaderElhaj/wedding-managment-',
+    repo: 'https://github.com/NaderElhaj/wedding-managment-', // if no repo, the button will not show up
+  },
+
 ];
 
 // CONTACT DATA
