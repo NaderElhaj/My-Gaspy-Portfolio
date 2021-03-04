@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'My First Reactjs App',
     info2: 'Webapp that Manage,Add,Modify,Delete,Count Invitees Built With Reactjs',
     url: 'https://60389adf31fa2475427d405f--inspiring-haibt-533c3e.netlify.app/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/NaderElhaj/react-guests-managment-app', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -42,7 +42,7 @@ export const projectsData = [
     info: 'Reactjs Project',
     info2: 'Website That Has Cool Designed And Filtered Destinations And Vacation Offers',
     url: 'https://gallant-hermann-1fa9de.netlify.app/',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/NaderElhaj/Travel', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
